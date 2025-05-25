@@ -1,0 +1,22 @@
+.til-metaforika {
+    display: flex;
+
+}
+
+.tilefwno,
+.metaforika {
+    padding: 5px;
+    flex: 1;
+}
+
+.tilefwno>a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+.metaforika {
+    display: flex;
+    justify-content: right;
+    margin-top: 7px;
+}

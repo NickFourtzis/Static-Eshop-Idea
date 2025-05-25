@@ -1,0 +1,23 @@
+.line {
+
+    width: 35px;
+    height: 5px;
+    background-color: #cd595a;
+    margin: 6px;
+    border-radius: 3px;
+
+
+}
+
+.dropdownmenu {
+    cursor: pointer;
+    display: none;
+
+}
+
+@media only screen and (max-width: 600px) {
+    .dropdownmenu {
+        display: block;
+        margin-top: 10px;
+    }
+}
