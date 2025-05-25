@@ -5,4 +5,4 @@ The project is not finished.
 
 Instructions:
 You can use any code editor that supports HTML/CSS/JS you like to run the code.
-Visual Studio is recommended.
+Visual Studio code is recommended.
